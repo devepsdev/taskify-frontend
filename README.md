@@ -1,6 +1,6 @@
 # 🚀 Proyecto Full Stack: Django REST + Next.js
 
-Este proyecto combina un **backend en Django REST Framework** con un **frontend en Next.js y TailwindCSS** para realizar operaciones **CRUD** de forma sencilla y con un diseño minimalista.
+Este proyecto combina un **backend en Django REST Framework** con un **frontend en Next.js y TailwindCSS** para realizar operaciones **CRUD** de forma sencilla.
 
 ---
 
@@ -48,14 +48,14 @@ proyecto-fullstack/
 ### 1. Clonar repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/proyecto-fullstack.git
-cd proyecto-fullstack
+git clone https://github.com/devepsdev/taskify-frontend.git
+cd taskify-frontend
 ```
 
 ### 2. Backend (Django)
 
 ```bash
-cd backend-django
+cd taskify-backend
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
@@ -67,7 +67,7 @@ El backend se ejecutará en:
 ### 3. Frontend (Next.js)
 
 ```bash
-cd frontend-next
+cd taskify-frontend
 npm install
 npm run dev
 ```
