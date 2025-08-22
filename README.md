@@ -77,12 +77,12 @@ El frontend se ejecutará en:
 
 ---
 
-## 🎥 Demostración
+## 📸 Captura de pantalla
 
-Aquí puedes incluir un **GIF animado** mostrando el flujo completo del proyecto:
+![Captura del CRUD](public/animation.gif)
 
-- Login / Logout
-- CRUD de usuarios o items
+
+- CRUD de items
 - Flujo entre frontend y backend
 
 ---
