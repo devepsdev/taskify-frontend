@@ -77,7 +77,7 @@ El frontend se ejecutará en:
 
 ---
 
-## 📸 Captura de pantalla
+## 📸 Capturas de pantalla
 
 ![Captura del CRUD](public/Animation.gif)
 
