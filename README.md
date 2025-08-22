@@ -79,7 +79,7 @@ El frontend se ejecutará en:
 
 ## 📸 Captura de pantalla
 
-![Captura del CRUD](public/animation.gif)
+![Captura del CRUD](public/Animation.gif)
 
 
 - CRUD de items
